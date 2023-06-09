@@ -19,7 +19,6 @@
     <!-- Importa la página principal utilizando include -->
     <?php include './pages/main.php'; ?>
 
-    <!-- Más contenido de tu index.php -->
     <!-- Enlace al archivo JavaScript de Bootstrap a través de CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
 </body>
